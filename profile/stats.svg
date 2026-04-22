@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">marcinbojko's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 366, Total Commits  (last year) : 217, Total PRs: 57, Total Issues: 1411, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 366, Total Commits  (last year) : 217, Total PRs: 57, Total Issues: 1415, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 86.02416353571512;
+        stroke-dashoffset: 85.96499983225772;
       }
     }
   
